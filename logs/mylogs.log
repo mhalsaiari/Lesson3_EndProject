@@ -1,0 +1,13 @@
+[INFO ] 2021-12-12 02:44:58.757 [main] TestUsers - TEST
+[INFO ] 2021-12-12 14:02:47.043 [main] TestUsers - To send POST request and validate response code
+[ERROR] 2021-12-12 14:02:49.719 [main] TestUsers - POST request validation failed
+[INFO ] 2021-12-12 14:02:49.723 [main] TestUsers - To send DELETE request and validate response code
+[ERROR] 2021-12-12 14:02:50.308 [main] TestUsers - DELETE request validation failed
+[INFO ] 2021-12-12 14:02:50.311 [main] TestUsers - To send PUT request and validate response code
+[ERROR] 2021-12-12 14:02:50.935 [main] TestUsers - PUT request validation failed
+[INFO ] 2021-12-12 14:02:50.938 [main] TestUsers - To check GET response code
+[ERROR] 2021-12-12 14:02:51.544 [main] TestUsers - GET request validation failed
+[INFO ] 2021-12-12 14:14:14.461 [main] validateResponse - To send POST request and validate response code
+[INFO ] 2021-12-12 14:14:16.921 [main] validateResponse - To send DELETE request and validate response code
+[INFO ] 2021-12-12 14:14:17.627 [main] validateResponse - To send PUT request and validate response code
+[INFO ] 2021-12-12 14:14:18.139 [main] validateResponse - To check GET response code
